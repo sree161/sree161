@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sree161
 - 👀 I’m interested in python, Machine learning and AI techs
-- 🌱 I’m currently learning Django, flask
-- 💞️ I’m looking to collaborate on Python
+- 🌱 I’m currently learning Data Science, ML and AI
+- 💞️ I’m looking to collaborate on ML and AI talks
 - 📫 How to reach me https://www.linkedin.com/in/sreekanth-d/
 
 <!---
